@@ -1,3 +1,11 @@
 img {
-    width: 100%;
+    width: 400px;
+}
+
+.github {
+    width: 100px;
+}
+
+footer {
+    margin-bottom: 5px;
 }
